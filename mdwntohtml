@@ -1,0 +1,15 @@
+#! /bin/sh -e
+
+while IFS=: read field value; do
+    case "$field" in
+        "")
+            break
+            ;;
+        Title)
+            # echo strips leading and trailing whitespace
+            title=$(echo $value)
+            ;;
+    esac
+done
+
+m4 -Dimage='<a href="$1.jpg"><img src="$1-sm.jpg"></a>' | markdown | m4 -DTITLE="$title" $1 -

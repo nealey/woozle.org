@@ -1,0 +1,83 @@
+html {
+  font-family: sans-serif;
+  background: #eee;
+}
+
+body {
+  max-width: 700px;
+  margin: auto;
+  color: #636;
+  background: #fff;
+  padding: 1em;
+}
+
+body h1:first-child {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: #ccc;
+  margin: 0;
+}
+body h1:first-child:before {
+  font-size: 300%;
+  font-weight: normal;
+  content: "Woozle";
+  padding-right: 1em;
+}
+
+nav {
+  font-size: 80%;
+  margin: 0;
+  padding: 0;
+}
+nav ul {
+  background-color: #eee;
+  margin: 0;
+  padding: 0 1em;
+}
+nav li {
+  font-weight: bold;
+  display: inline;
+  padding: 0 1em;
+}
+
+a {
+  text-decoration: none;
+  color: #e8b;
+}
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-size: 150%;
+  border-bottom: 1px solid #ddd;
+}
+
+
+.login {
+  margin: 0 1em;
+  color: #e8b;
+  background: #fbfbfb;
+  border: 1px solid #eee;
+  text-align: center;
+}
+
+.login input {
+  border: 1px solid #ddd;
+  color: #bbb;
+  background: #fff;
+  font-weight: bold;
+}
+
+img
+{
+  border: 1px #e8b solid;
+}
+img.left {
+  float: left;
+  margin-right: 10px;
+}
+
+pre {
+  background-color: #eee;
+}

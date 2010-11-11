@@ -1,0 +1,18 @@
+Title: Home
+
+<form class="login"
+      action="https://woozle.org/mail/index.php"
+      method="post">
+  Username
+  <input type="text" name="user" size="15" />
+  Password
+  <input type="password" name="password" size="15" />
+  <input type="submit" value="Read Email" />
+</form>
+
+
+Nov 9: Web site changes
+=======================
+
+I'm twiddling with the web site.  Webmail should be fine but other things may
+be up and down throughout the day.
