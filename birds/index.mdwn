@@ -1,6 +1,7 @@
 Title: Birds
 
-These are some birds that some people drew for you.  We hope you enjoy
-them.
+Here are some drawings of birds.
 
-<img src="neale.png" title="Neale's bird" alt="Neale's bird">
+![A finch or something](neale.png)
+![A woodpecker](neale2.png)
+![Drawn with a chemistry program](cyclohexane-bird.png)
