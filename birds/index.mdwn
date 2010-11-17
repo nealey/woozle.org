@@ -4,4 +4,5 @@ Here are some drawings of birds.
 
 ![A finch or something](neale.png)
 ![A woodpecker](neale2.png)
-![Drawn with a chemistry program](cyclohexane-bird.png)
+![deejoe used a chemistry program.  I think this is C₃O₅H₆](cyclohexane-bird.png)
+![Sarah's bird can scale to poster size with NO PIXELLATION](sarah.png)
