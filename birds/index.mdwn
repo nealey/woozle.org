@@ -1,20 +1,21 @@
 Title: Nerds draw Birds
 
-Once upon a time there was a nice lady who (we think) drew birds for
-people.  She was so nice that a part of her body thought, "if some of
-her is this nice, an infinite amount of her would be *really* nice!"
-So it started to grow, and grow, and grow, and then it had to be
-removed.  Now she's going to feel icky for a while.
+Once upon a time there was a nice lady who drew birds for people.  She
+was so nice that a part of her body thought, "if some of her is this
+nice, an infinite amount of her would be *really* nice!"  So it
+started to grow, and grow, and grow, and then it had to be removed.
+Now she's going to feel icky for a while.
 
 We've decided to try and draw some birds for her because there's nothing
 else we can do.
 
-define(BURD, `<object data="$1" title="$2" style="max-width: 250px">$2</object>')
+define(BURD, `<img src="$1" title="$2" alt="$2" style="max-width: 250px">')
 BURD(neale.png, Neale's bird is all set for winter or sumo wrestling.)
 BURD(neale2.png, Neale's woodpecker seems to have had a botched lobotomy.)
 BURD(cyclohexane-bird.png, deejoe used a chemistry CAD program.  I think this is H₆O₅C₃ and should be considered highly volatile.)
 BURD(sarah.png, Sarah's bird can scale to poster size with NO PIXELLATION.)
-BURD(nemo.png, nemo apparently doesn't understand what 'poorly-drawn' means.)
+BURD(nemo.png, Nemo apparently doesn't understand what 'poorly-drawn' means.)
 BURD(SpaceHobo.png, SpaceHobo's bird is cruisin' for a bruisin'.)
 BURD(emad-finnix.jpg, SpaceHobo suggested this drawing by emad.  I think they both may be unclear on the concept.)
 BURD(eythian.png, Eythian drew this beautiful anencephalic owl.)
+BURD(emad.jpg, I can't tell if emad's drawing is a bird or a bird leg with legs.)
