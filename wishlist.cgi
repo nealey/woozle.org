@@ -37,6 +37,11 @@ if u:
         content.append('<input name="p">')
         content.append('<input type="submit" value="update">')
         content.append('</form>')
+        content.append('<p>Formatting overview:</p>')
+        content.append('<pre>* Item')
+        content.append('* Second item')
+        content.append('* Item with [a link](http://example.com/)')
+        content.append('* &lt;del&gt;A spoken-for item&lt;/del&gt;</pre>')
 else:
     for fn in sorted(glob.glob(os.path.join(BASE, '*'))):
         u = os.path.basename(fn)
