@@ -29,7 +29,7 @@ if u:
     else:
         title = "%s's Wishlist" % cgi.escape(u)
         txt = open(os.path.join(BASE, u)).read()
-        content.append('<form action="wishlist.cgi" method="post">')
+        content.append('<form action="wishlist.cgi" method="post" accept-charset="utf-8">')
         content.append('<input type="hidden" name="u" value="%s">' % u)
         content.append('<textarea name="txt" rows="15" cols="60">%s</textarea>' % cgi.escape(txt))
         content.append('<br>')
