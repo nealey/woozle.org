@@ -22,3 +22,5 @@ BURD(emad.jpg, I can't tell if emad's drawing is a bird or a bird leg with legs.
 BURD(fondue.gif, Fondue's duck is furious that its iPad's touchscreen isn't usable with feathers.  You can't tell because ducks have no lips.)
 BURD(sneakums.png, It looks kind and gentle but sneakums' bird would just as soon peck your eyes out as poop in your hair.)
 BURD(rasher.png, HI GUYS HOW'S IT GOING DO YOU LIKE SEEDS by rasher)
+BURD(teferi.jpg, Someone just told teferi's bird a really terrible joke.)
+BURD(bz2.jpg, I never thought I'd see a bird with a pompadour`,' but bz2 has made that happen.)

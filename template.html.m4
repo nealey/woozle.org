@@ -16,7 +16,6 @@
         <li><a href="/people">People</a><li>
       </ul>
     </nav>
-define(image, <a href="$1.jpg"><img src="$1-sm.jpg"></a>)
 divert(1)
   </body>
 </html>
