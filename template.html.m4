@@ -3,7 +3,7 @@
   <head>
     <title>TITLE</title>
     <meta name="viewport" content="width=device-width" />
-    <link rel="stylesheet" href="/style.css" type="text/css" />
+    <link rel="stylesheet" href="/style-black.css" type="text/css" />
     <link rel="icon" type="image/png" href="/icon.png" />
   </head>
   <body>

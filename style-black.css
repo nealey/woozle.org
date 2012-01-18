@@ -1,13 +1,13 @@
 html {
   font-family: sans-serif;
-  background: #eee;
+  background: black;
 }
 
 body {
   max-width: 700px;
   margin: auto;
   color: #636;
-  background: #fff;
+  background: black;
   padding: 1em;
 }
 
@@ -30,7 +30,7 @@ nav {
   padding: 0;
 }
 nav ul {
-  background-color: #eee;
+  background-color: #222;
   margin: 0;
   padding: 0 1em;
 }
@@ -57,7 +57,7 @@ h1 {
 .login {
   margin: 0 1em;
   color: #e8b;
-  background: #fbfbfb;
+  background: #333;
   border: 1px solid #eee;
   text-align: center;
 }
@@ -65,7 +65,7 @@ h1 {
 .login input {
   border: 1px solid #ddd;
   color: #bbb;
-  background: #fff;
+  background: #111;
   font-weight: bold;
 }
 
@@ -79,5 +79,5 @@ img.left {
 }
 
 pre {
-  background-color: #eee;
+  background-color: #444;
 }
