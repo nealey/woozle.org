@@ -24,3 +24,4 @@ BURD(sneakums.png, It looks kind and gentle but sneakums' bird would just as soo
 BURD(rasher.png, HI GUYS HOW'S IT GOING DO YOU LIKE SEEDS by rasher)
 BURD(teferi.jpg, Someone just told teferi's bird a really terrible joke.)
 BURD(bz2.jpg, I never thought I'd see a bird with a pompadour`,' but bz2 has made that happen.)
+BURD(pedro.jpg, Pedro has been watching too many Michael Bay movies.)

@@ -11,8 +11,8 @@ Title: Home
 </form>
 
 
-Nov 9: Web site changes
-=======================
+Jan 18: Blacked Out for SOPA
+============================
 
-I'm twiddling with the web site.  Webmail should be fine but other things may
-be up and down throughout the day.
+<a href="http://sopastrike.com/">SOPAStrike.com</a>
+

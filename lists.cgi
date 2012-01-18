@@ -76,7 +76,7 @@ else:
     content += '  </thead>'
     content += '  <tbody>'
 
-    for d in glob.glob('/var/spool/mlmmj/*'):
+    for d in sorted(glob.glob('/var/spool/mlmmj/*')):
         if os.path.islink(d):
             continue
         if os.path.exists('%s/control/private' % d):
