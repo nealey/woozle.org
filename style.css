@@ -65,7 +65,7 @@ h1 {
 .login input {
   border: 1px solid #ddd;
   color: #bbb;
-  background: #fff;
+  background: #111;
   font-weight: bold;
 }
 
@@ -79,5 +79,5 @@ img.left {
 }
 
 pre {
-  background-color: #eee;
+  background-color: #444;
 }
