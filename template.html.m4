@@ -3,7 +3,7 @@
   <head>
     <title>TITLE</title>
     <meta name="viewport" content="width=device-width" />
-    <link rel="stylesheet" href="/style-black.css" type="text/css" />
+    <link rel="stylesheet" href="/style.css" type="text/css" />
     <link rel="icon" type="image/png" href="/icon.png" />
   </head>
   <body>
@@ -11,9 +11,9 @@
     <nav>
       <ul>
         <li><a href="/">Home</a></li>
-        <li><a href="/lists">Email lists</a></li>
-        <li><a href="/wishlists">Wish lists</a></li>
-        <li><a href="/people">People</a><li>
+        <li><a href="/lists.cgi">Email lists</a></li>
+        <li><a href="/wishlist.cgi">Wish lists</a></li>
+        <li><a href="/people.html">People</a><li>
       </ul>
     </nav>
 divert(1)

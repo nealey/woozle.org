@@ -1,7 +1,7 @@
 Title: Home
 
 <form class="login"
-      action="https://woozle.org/mail/index.php"
+      action="https://woozle.org/mail.cgi/"
       method="post">
   Username
   <input type="text" name="user" size="15" />
@@ -10,9 +10,11 @@ Title: Home
   <input type="submit" value="Read Email" />
 </form>
 
+3 Feb: Web Server Change
+------------------------
 
-Jan 18: Blacked Out for SOPA
-============================
+Because of a newly-discovered security bug in the web server software
+I was using, I had to do an unplanned emergency changeover to something
+else.  I think everything is working now, including webmail.
 
-<a href="http://sopastrike.com/">SOPAStrike.com</a>
-
+Please let me know if you find anything broken.

@@ -23,7 +23,7 @@ def getdesc(d):
         return '(none)'
     ret = desc_re.search(hdrs)
     if ret:
-        return ret.group(1)
+        return cgi.escape(ret.group(1)).replace('#', '')
     else:
         return '(none)'
 
@@ -47,10 +47,8 @@ if l and os.path.isdir(os.path.join(listdir, 'control')):
             content = "<p>Uh oh.  That didn't work.</p>"
             content += "<pre>%s</pre>" % cgi.escape(str(err))
     else:
-        desc = getdesc(listdir)
         content = '<h2>%s@woozle.org' % l
-        if desc:
-            content += ": %s" % cgi.escape(desc)
+        content += ": %s" % getdesc(listdir)
         content += '</h2>'
         content += '<p>To subscribe to or unsubscribe from the %s list,' % l
         content += '   just enter your email address in this handy dandy form!</p>'
@@ -83,7 +81,7 @@ else:
             continue
 
         l = os.path.basename(d)
-        content += '<tr><td><a href="/lists/%s">%s</a></td>' % (l, l)
+        content += '<tr><td><a href="/lists.cgi/%s">%s</a></td>' % (l, l)
         content += '<td>%s</td>' % getdesc(d)
         content += '<td><form action="lists">'
         content += '  <input name="addr" />'
