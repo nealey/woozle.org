@@ -2,6 +2,8 @@
 
 echo 'Title: People'
 echo
+echo 'The following people have made public homepages:'
+echo
 
 ls /home/*/public_html/index.html | while read fn; do
     a=${fn#/home/}

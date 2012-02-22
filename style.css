@@ -53,6 +53,10 @@ h1 {
   border-bottom: 1px solid #ddd;
 }
 
+h2 {
+  font-size: 115%;
+}
+
 
 .login {
   margin: 0 1em;
