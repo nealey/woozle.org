@@ -4,19 +4,20 @@ Title: Home
       action="https://woozle.org/mail.cgi/"
       method="post">
   Username
-  <input type="text" name="user" size="15" />
+  <input type="text" name="user" size="15">
   Password
-  <input type="password" name="password" size="15" />
-  <input type="submit" value="Read Email" />
+  <input type="password" name="password" size="15">
+  <input type="submit" value="Read Email">
 </form>
 
-<!--
-ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
--->
 
 Woozle.org provides shells, email, and web hosting for no cost,
 without advertisements, and with a focus on security.  Accounts are
 held by folks who know the right person to ask.
+
+<!--
+ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
+-->
 
 3 Feb: Web Server Change
 ------------------------

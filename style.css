@@ -11,13 +11,13 @@ body {
   padding: 1em;
 }
 
-body h1:first-child {
+h1#title {
   font-size: 1.5em;
   font-weight: bold;
   color: #ccc;
   margin: 0;
 }
-body h1:first-child:before {
+h1#title:before {
   font-size: 300%;
   font-weight: normal;
   content: "Woozle";
