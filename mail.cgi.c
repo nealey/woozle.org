@@ -11,7 +11,9 @@ main(int argc, char *argv[])
     char *pathinfo = getenv("PATH_INFO");
     char filename[512];
 
-    if ((! pathinfo) || (0 == strcmp(pathinfo, "/index.html"))) {
+    if ((! pathinfo) ||
+        (! strcmp(pathinfo, "/")) ||
+        (0 == strcmp(pathinfo, "/index.html"))) {
         pathinfo = "/index.php";
     }
     snprintf(filename, sizeof filename, "%s%s", basepath, pathinfo);

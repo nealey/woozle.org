@@ -83,7 +83,7 @@ else:
         l = os.path.basename(d)
         content += '<tr><td><a href="/lists.cgi/%s">%s</a></td>' % (l, l)
         content += '<td>%s</td>' % getdesc(d)
-        content += '<td><form action="lists">'
+        content += '<td><form action="/lists.cgi">'
         content += '  <input name="addr" />'
         content += '  <input type="hidden" name="l" value="%s" /><br />' % l
         content += '  <input type="submit" name="a" value="subscribe" />'

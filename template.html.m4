@@ -11,6 +11,7 @@
     <nav>
       <ul>
         <li><a href="/">Home</a></li>
+        <li><a href="/derby.html">Derby Stuff</a></li>
         <li><a href="/lists.cgi">Email lists</a></li>
         <li><a href="/wishlist.cgi">Wish lists</a></li>
         <li><a href="/people.html">People</a><li>
