@@ -4,9 +4,9 @@ html {
 }
 
 body {
-  max-width: 700px;
+  max-width: 40em;
   margin: auto;
-  color: #636;
+  color: #825;
   background: #fff;
   padding: 1em;
 }
@@ -14,20 +14,18 @@ body {
 h1#title {
   font-size: 1.5em;
   font-weight: bold;
-  color: #ccc;
   margin: 0;
 }
 h1#title:before {
-  font-size: 300%;
-  font-weight: normal;
   content: "Woozle";
+  font-size: 3em;
+  font-weight: normal;
   padding-right: 1em;
 }
 
 nav {
   font-size: 80%;
-  margin: 0;
-  padding: 0;
+  text-align: center;
 }
 nav ul {
   background-color: #eee;
@@ -42,7 +40,7 @@ nav li {
 
 a {
   text-decoration: none;
-  color: #e8b;
+  color: #793;
 }
 a:hover {
   text-decoration: underline;
@@ -55,22 +53,6 @@ h1 {
 
 h2 {
   font-size: 115%;
-}
-
-
-.login {
-  margin: 0 1em;
-  color: #e8b;
-  background: #fbfbfb;
-  border: 1px solid #eee;
-  text-align: center;
-}
-
-.login input {
-  border: 1px solid #ddd;
-  color: #bbb;
-  background: #fff;
-  font-weight: bold;
 }
 
 a img

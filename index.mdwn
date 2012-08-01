@@ -1,32 +1,9 @@
 Title: Home
 
-<form class="login"
-      action="https://woozle.org/mail.cgi/"
-      method="post">
-  Username
-  <input type="text" name="user" size="15">
-  Password
-  <input type="password" name="password" size="15">
-  <input type="submit" value="Read Email">
-</form>
-
-
 Woozle.org provides shells, email, and web hosting for no cost,
 without advertisements, and with a focus on security.  Accounts are
-held by folks who know the right person to ask.
+held by folks who know the right person to ask. 
 
 <!--
 ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
 -->
-
-8 Mar: More web server suckage
-------------------------------
-
-I'm trying to get woozle.org ready for IPv6, using the same software
-we run in [Dirtbags CTF](http://dirtbags.net/ctf/).  I *thought* I had
-the web server up and working, but apparently I broke webmail logins.
-
-Thanks to the vigilant woozle user who phoned me to let me know it was
-busted.
-
-Uptime for the web server is pretty horrible lately.  My apologies.

@@ -1,20 +1,26 @@
-Title: Roller Derby Stuff
+Title: Roller Derby
 
-We provide Roller Derby software and advice, aimed at small- to medium-sized
-leagues.  We strive to make our software:
+Roller Derby software, forms, and advice, with a focus on smaller teams.
+
+The Woozle Promise
+------------------
 
 * Free: no ads, no fees, forever
-* Open: download and modify the provided source code
+* Open: you're encouraged to copy and modify
 * Clean: fans and NSOs should focus on the game, not our software
 * Easy: quickly-learned and intuitive interfaces
 
 Software
 --------
 
-* [Scoreboard](http://woozle.org/scoreboard/), works in any web browser
+* [Scoreboard](/scoreboard/), works in any web browser
 * [Penalty Timer (Android)](https://play.google.com/store/apps/details?id=org.woozle.penaltytimer)
-* [Track](http://woozle.org/track/) with movable players
-* Penalty Timer (iPhone/iPad) *coming soon*
+* [Track](/track/) with movable players
+
+Forms
+-----
+
+* [Multi-NSO scrimmage form](scrimmage.pdf) for tracking points and penalties
 
 Articles
 --------
