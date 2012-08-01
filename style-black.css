@@ -1,23 +1,22 @@
 html {
   font-family: sans-serif;
-  background: #eee;
+  background: black;
 }
 
 body {
-  max-width: 700px;
   margin: auto;
   color: #636;
-  background: #fff;
+  background: black;
   padding: 1em;
 }
 
-h1#title {
+body h1:first-child {
   font-size: 1.5em;
   font-weight: bold;
   color: #ccc;
   margin: 0;
 }
-h1#title:before {
+body h1:first-child:before {
   font-size: 300%;
   font-weight: normal;
   content: "Woozle";
@@ -30,7 +29,7 @@ nav {
   padding: 0;
 }
 nav ul {
-  background-color: #eee;
+  background-color: #222;
   margin: 0;
   padding: 0 1em;
 }
@@ -53,15 +52,11 @@ h1 {
   border-bottom: 1px solid #ddd;
 }
 
-h2 {
-  font-size: 115%;
-}
-
 
 .login {
   margin: 0 1em;
   color: #e8b;
-  background: #fbfbfb;
+  background: #333;
   border: 1px solid #eee;
   text-align: center;
 }
@@ -69,7 +64,7 @@ h2 {
 .login input {
   border: 1px solid #ddd;
   color: #bbb;
-  background: #fff;
+  background: #111;
   font-weight: bold;
 }
 
@@ -83,5 +78,5 @@ img.left {
 }
 
 pre {
-  background-color: #eee;
+  background-color: #444;
 }

@@ -2,18 +2,19 @@
 <html lang="en">
   <head>
     <title>TITLE</title>
-    <meta name="viewport" content="width=device-width" />
-    <link rel="stylesheet" href="/style.css" type="text/css" />
-    <link rel="icon" type="image/png" href="/icon.png" />
+    <meta name="viewport" content="width=device-width">
+    <link rel="stylesheet" href="/style.css" type="text/css">
+    <link rel="icon" type="image/png" href="/icon.png">
   </head>
   <body>
-    <h1>TITLE</h1>
+    <h1 id="title">TITLE</h1>
     <nav>
       <ul>
         <li><a href="/">Home</a></li>
-        <li><a href="/lists">Email lists</a></li>
-        <li><a href="/wishlists">Wish lists</a></li>
-        <li><a href="/people">People</a><li>
+        <li><a href="/derby.html">Derby Stuff</a></li>
+        <li><a href="/lists.cgi">Email lists</a></li>
+        <li><a href="/wishlist.cgi">Wish lists</a></li>
+        <li><a href="/people.html">People</a><li>
       </ul>
     </nav>
 divert(1)
