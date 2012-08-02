@@ -10,8 +10,8 @@
         <h1 id="title">TITLE</h1>
         <nav>
             <ul>
-                <li><a href="derby.html">Roller Derby</a></li>
-                <li><a href="lists.cgi">Email lists</a></li>
+                <li><a href="/derby/">Roller Derby</a></li>
+                <li><a href="/lists.cgi">Email lists</a></li>
                 <li><a href="https://woozle.org/mail.cgi/">Webmail</a></li>
             </ul>
         </nav>

@@ -1,0 +1,1 @@
+PLAIN += $(wildcard derby/*.mdwn)
