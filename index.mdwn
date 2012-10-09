@@ -7,3 +7,30 @@ held by folks who know the right person to ask.
 <!--
 ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
 -->
+
+October 9: New Webmail
+----------------------
+
+The October 2 change broke webmail.  Again.  Rather than fix it again,
+I thought everyone would enjoy a more modern webmail client.  You can
+still get to [the old one](https://woozle.org/ilohamail.cgi) if you
+want to pull your address book out or something, but I'm planning on
+removing it in a few months unless someone asks me not to.
+
+Mail filtering is now available.  You can
+get to that under Settings.  This uses a standard filtering language,
+so your filters will stick around if I have to change the webmail
+program again.  These filters also apply to IMAP clients (like your
+Android or iPhone, or Thunderbird).
+
+
+
+October 2: Kerboom
+------------------
+
+In trying to get my 2006 cell phone to sync with Google Calendar, I broke
+(among other things) mail.  I think it's all back up now.  If you see any
+other problems, please give me a call.
+
+I should mention that [eris HTTPd](http://woozle.org/~neale/src/eris.html)
+was the only service that never went down; not even for a nanosecond.
