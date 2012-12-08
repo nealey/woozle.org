@@ -8,6 +8,28 @@ held by folks who know the right person to ask.
 ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
 -->
 
+December 7: Expired SSL Certificate
+-----------------------------------
+
+Woozle's SSL certificate expired tonight.  It's my own fault: I
+thought the warnings were spam.
+
+I'll have a new SSL certificate in place hopefully before Monday.
+In the meantime, you will either have to tell your mail client that it's okay to use the expired certificate,
+or if you're not comfortable with that
+(I wouldn't blame you),
+wait until I can get it fixed.
+
+I hope to have a new certificate installed by Monday,
+but I have to wait for a lot of bureaucracy to churn through my
+application so I don't know when, exactly, I will be able
+to install a new certificate.
+The SSL certificate is one of the few things about woozle that I have little control over.
+It also costs me more to buy the certificate than it does to run the entire rest of the machine.
+
+My apologies.
+
+
 October 9: New Webmail
 ----------------------
 
@@ -22,15 +44,3 @@ get to that under Settings.  This uses a standard filtering language,
 so your filters will stick around if I have to change the webmail
 program again.  These filters also apply to IMAP clients (like your
 Android or iPhone, or Thunderbird).
-
-
-
-October 2: Kerboom
-------------------
-
-In trying to get my 2006 cell phone to sync with Google Calendar, I broke
-(among other things) mail.  I think it's all back up now.  If you see any
-other problems, please give me a call.
-
-I should mention that [eris HTTPd](http://woozle.org/~neale/src/eris.html)
-was the only service that never went down; not even for a nanosecond.
