@@ -15,8 +15,8 @@ main(int argc, char *argv[])
     char filename[512];
     char *ext;
 
-    if ((! pathinfo) || (! remaddr) || (0 != strncmp(remaddr, "127.0.0.1:", 10))) {
-        printf("%s\n", baseurl);
+    if ((! pathinfo) || (! remaddr) || (! getenv("HTTPS"))) {
+        printf("Location: %s\n", baseurl);
         return 0;
     } else if (0 == strcmp(pathinfo, "/index.html")) {
         snprintf(filename, sizeof filename, "%s/index.php", basepath);

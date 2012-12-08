@@ -8,6 +8,29 @@ held by folks who know the right person to ask.
 ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
 -->
 
+December 8 pt. 2: Webmail works now
+-----------------------------------
+
+I didn't get a chance to test webmail before I had to run off to an appointment.
+It's back up now, near as I can tell.
+
+
+December 8: SSL Certificate Renewed
+-----------------------------------
+
+Woozle now has a new SSL certificate,
+thanks to the generous folks at [StartCom](http://www.startssl.com).
+I think everything is back to normal.
+
+If you are having trouble with web, or sending or recieving email,
+please *please* let me (Neale) know right away.
+Phone or text message is okay.
+As far as I can tell, everything's working fine,
+and I depend on *you* to tell me otherwise.
+
+
+
+
 December 7: Expired SSL Certificate
 -----------------------------------
 
