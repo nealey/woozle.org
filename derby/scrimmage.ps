@@ -1,77 +1,77 @@
 %!PS-Adobe-2.0
 %%BoundingBox: 0 0 612 792
 
+0.5 setlinewidth
 /Courier findfont 9 scalefont setfont
 
 /str (  ) def
 
 /points {
-    gsave
-    translate
+	gsave
+	translate
 
-    0 1 1 {
-        /hunnert exch def
-        hunnert 1 eq { 0 -110 translate } if
+	0 1 1 {
+		/hunnert exch def
+		hunnert 1 eq { 0 -110 translate } if
 
-        0 1 9 {
-            /i exch def
+		0 1 9 {
+			/i exch def
 
-            0 i -11 mul moveto
-            0 1 9 {
-                i 10 mul add /x exch def
+			0 i -11 mul moveto
+			0 1 9 {
+				i 10 mul add /x exch def
 
-                x 10 lt
-                    { hunnert x add 0 eq 
-                        { (  ) show }
-                        { ( ) show 
-                          x str cvs show }
-                        ifelse } 
-                    { x str cvs show }
-                    ifelse
-                ( ) show
-            } for
-        } for
-    } for
-    
-    grestore
+				x 10 lt
+					{ hunnert x add 0 eq 
+						{ (  ) show }
+						{ ( ) show 
+						  x str cvs show }
+						ifelse } 
+					{ x str cvs show }
+					ifelse
+				( ) show
+			} for
+		} for
+	} for
+	
+	grestore
 } def
 
 /phi 18 def
-/plr 40 def
-/maj 120 def
-/min 80 def
+/plr 60 def
+/pen 20 def
 
 /penalties {
-    gsave
-    translate
+	gsave
+	translate
 
-    0 0 moveto
-    0 plr maj min add add add 0 rlineto
-    0 0 moveto
+	0 0 moveto
 
-    1 1 16 {
-        /i exch def
+	1 1 16 {
+		/i exch def
+		
+		0 i phi mul neg moveto
 
-        0 phi neg rlineto
-        plr 0 rlineto
-        0 phi rlineto
-        0 phi neg rmoveto
+		0 phi neg rlineto
+		plr 0 rlineto
+		0 phi rlineto
+		0 phi neg rmoveto
 
-        maj 0 rlineto
-        0 phi rlineto  0 phi neg rmoveto
+		1 1 7 {
+			/j exch def
+			
+			pen 0 rlineto
+			0 phi rlineto  0 phi neg rmoveto
+		} for
 
-        min 0 rlineto
-        0 phi rlineto  0 phi neg rmoveto
+	} for
 
-        plr maj min add add neg 0 rmoveto
-    } for
+	stroke
 
-    stroke
-
-    grestore
+	grestore
 } def
 
- 20 700 points
+20 700 points
 430 700 points
 
 /Times-Roman findfont 12 scalefont setfont
@@ -83,20 +83,29 @@
 200 490 moveto (T) show
 400 490 moveto (T) show
 
+
+20 450 moveto
+(Team ) show
+200 0 rlineto stroke
+
+350 450 moveto
+(Team ) show
+200 0 rlineto stroke
+
  20 440 penalties
 350 440 penalties
 
 /Times-Roman findfont 11 scalefont setfont
 
 /cshow {
-    gsave
-        exch show 
-    grestore
-    gsave
-        16 0 rmoveto
-        show
-    grestore
-    0 -12 rmoveto
+	gsave
+		exch show 
+	grestore
+	gsave
+		16 0 rmoveto
+		show
+	grestore
+	0 -12 rmoveto
 } def
 
 230 700 moveto  
