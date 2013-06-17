@@ -8,62 +8,9 @@ held by folks who know the right person to ask.
 ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
 -->
 
-December 8 pt. 2: Webmail works now
------------------------------------
+June 17: Mail Outage
+--------------------
 
-I didn't get a chance to test webmail before I had to run off to an appointment.
-It's back up now, near as I can tell.
-
-
-December 8: SSL Certificate Renewed
------------------------------------
-
-Woozle now has a new SSL certificate,
-thanks to the generous folks at [StartCom](http://www.startssl.com).
-I think everything is back to normal.
-
-If you are having trouble with web, or sending or recieving email,
-please *please* let me (Neale) know right away.
-Phone or text message is okay.
-As far as I can tell, everything's working fine,
-and I depend on *you* to tell me otherwise.
-
-
-
-
-December 7: Expired SSL Certificate
------------------------------------
-
-Woozle's SSL certificate expired tonight.  It's my own fault: I
-thought the warnings were spam.
-
-I'll have a new SSL certificate in place hopefully before Monday.
-In the meantime, you will either have to tell your mail client that it's okay to use the expired certificate,
-or if you're not comfortable with that
-(I wouldn't blame you),
-wait until I can get it fixed.
-
-I hope to have a new certificate installed by Monday,
-but I have to wait for a lot of bureaucracy to churn through my
-application so I don't know when, exactly, I will be able
-to install a new certificate.
-The SSL certificate is one of the few things about woozle that I have little control over.
-It also costs me more to buy the certificate than it does to run the entire rest of the machine.
-
-My apologies.
-
-
-October 9: New Webmail
-----------------------
-
-The October 2 change broke webmail.  Again.  Rather than fix it again,
-I thought everyone would enjoy a more modern webmail client.  You can
-still get to [the old one](https://woozle.org/ilohamail.cgi) if you
-want to pull your address book out or something, but I'm planning on
-removing it in a few months unless someone asks me not to.
-
-Mail filtering is now available.  You can
-get to that under Settings.  This uses a standard filtering language,
-so your filters will stick around if I have to change the webmail
-program again.  These filters also apply to IMAP clients (like your
-Android or iPhone, or Thunderbird).
+The disk filled up and it caused a whole host of problems that I am
+still sorting out. Mail to woozle has been bouncing from about midnight
+GMT to about 9:00pm GMT.
