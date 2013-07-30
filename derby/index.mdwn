@@ -13,9 +13,9 @@ The Woozle Promise
 Software
 --------
 
-* [Scoreboard](/scoreboard/), works in any web browser
-* [Penalty Timer (Android)](https://play.google.com/store/apps/details?id=org.woozle.penaltytimer)
-* [Track](/track/) with movable players
+* [Scoreboard](/scoreboard/), works in any web browser -- [source](http://woozle.org/~neale/g.cgi/scoreboard/)
+* [Penalty Timer for Android](https://play.google.com/store/apps/details?id=org.woozle.penaltytimer) -- [source](http://woozle.org/~neale/g.cgi/ptimer/)
+* [Track](/track/) with movable players -- [source](http://woozle.org/~neale/g.cgi/track/)
 
 Forms
 -----
