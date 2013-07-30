@@ -21,6 +21,7 @@ Forms
 -----
 
 * [Multi-NSO scrimmage form](scrimmage.pdf) for tracking points and penalties
+* [Lineup tracking form](lineup.pdf)
 
 Articles
 --------
