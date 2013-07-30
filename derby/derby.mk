@@ -1,5 +1,5 @@
 PLAIN += derby
-COPY += derby/scrimmage.pdf
+COPY += derby/scrimmage.pdf derby/lineup.pdf
 
-$(DESTDIR)/derby/scrimmage.pdf: derby/scrimmage.ps
+$(DESTDIR)/derby/%.pdf: derby/%.ps
 	ps2pdf $< $@
