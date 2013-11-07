@@ -1,4 +1,4 @@
-DESTDIR = /srv/www/woozle.org
+DESTDIR = /srv/http/woozle.org
 
 TEMPLATE = template.html.m4
 MDWNTOHTML = ./mdwntohtml $(TEMPLATE)

@@ -8,9 +8,7 @@ held by folks who know the right person to ask.
 ssh fingerprint for woozle.org: 63:ac:b0:e9:ee:9f:a9:4f:55:0a:4a:42:5d:45:47:06
 -->
 
-June 17: Mail Outage
---------------------
+November 4: Webmail Back
+------------------------
 
-The disk filled up and it caused a whole host of problems that I am
-still sorting out. Mail to woozle has been bouncing from about midnight
-GMT to about 9:00pm GMT.
+It was too difficult to live without it.

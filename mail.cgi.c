@@ -5,6 +5,7 @@
 
 const char *baseurl = "https://woozle.org/mail.cgi/";
 const char *basepath = "/opt/roundcubemail";
+//const char *basepath = "/usr/share/IlohaMail/source";
 
 int
 main(int argc, char *argv[])
