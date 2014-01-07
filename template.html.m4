@@ -11,8 +11,7 @@
         <nav>
             <ul>
                 <li><a href="/derby/">Roller Derby</a></li>
-                <li><a href="/lists.cgi">Email lists</a></li>
-				<li><a href="https://woozle.org/mail.cgi/">Webmail</a></li>
+                <li><a href="/people.html">Homepages</a></li>
             </ul>
         </nav>
 divert(1)

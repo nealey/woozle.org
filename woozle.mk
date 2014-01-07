@@ -3,6 +3,7 @@ COPY += icon.png style.css style-black.css lists.cgi wishlist.cgi set.cgi $(TEMP
 COPY += mail.cgi ilohamail.cgi l.cgi
 COPY += google7f698b9893809122.html
 HTML += people.html
+COPY += robots.txt
 
 $(DESTDIR)/people.html: people.sh template.html.m4
 	sh $< | $(MDWNTOHTML) > $@

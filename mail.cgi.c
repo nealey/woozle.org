@@ -35,7 +35,7 @@ main(int argc, char *argv[])
     if (0 == strcmp(ext, ".php")) {
         setenv("SCRIPT_FILENAME", filename, 1);
         setenv("REDIRECT_STATUS", "fuck me", 1);
-        execl("/usr/bin/cgi-fcgi", "cgi-fcgi", "-bind", "-connect", ":8823", NULL);
+		execl("/usr/bin/php-cgi", filename, NULL);
     } else if (strstr(filename, "/config/") ||
                strstr(filename, "/logs/") ||
                strstr(filename, "/temp/")) {
