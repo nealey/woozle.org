@@ -25,16 +25,30 @@ Features
 Installation
 --------
 
-<dl>
-<dt>Chrome / Chromium</dt>
-<dd>Visit <a href="https://chrome.google.com/webstore/detail/ladd-roller-derby-scorebo/mgdklbiancdieoaabojfabakhlfhiglb?utm_source=woozle">Woozle Scoreboard</a> in the web store, install button is in the top-right.</dd>
+<script type="text/javascript">
+window.addEventListener("load", function () {
+	var dl = document.getElementById("download");
+	var dc = document.getElementById("download-chrome");
 
-<dt>Everybody Else</dt>
-<dd>The <a href="https://woozle.org/neale/g.cgi/scoreboard/refs/">Download Page</a> has all released versions. Download the highest-numbered version `.zip` file, and drag its contents into a new folder. The <a href="https://www.youtube.com/watch?v=lH1VZ2kFatY?utm_source=woozle">video tutorial</a> walks you through installation.</dd>
-</dl>
+	if (window.chrome) {
+		dc.style.display = "block";
+		dl.style.display = "none";
+	}
+})
+</script>
 
-A [video tutorial](https://www.youtube.com/watch?v=MXOzmmnHqXU?t=1m1s&utm_source=woozle) is available.
-It's for an older version but is still a good introduction. 
+<ul id="download">
+	<li><a href="https://chrome.google.com/webstore/detail/woozle-scoreboard/mgdklbiancdieoaabojfabakhlfhiglb?utm_source=woozle">Chrome Users</a></li>
+	<li><a href="https://woozle.org/neale/g.cgi/scoreboard/refs/">Everybody Else</a>:
+	The <a href="https://www.youtube.com/watch?v=lH1VZ2kFatY?utm_source=woozle">installation walkthrough video</a> may help if you don't use Chrome.
+	</li>
+</ul>
+
+<p id="download-chrome" style="display: none; text-align: center;">
+	<a style="padding: 1em 3em; background: green; color: white; border-radius: 0.2em;" href="https://chrome.google.com/webstore/detail/woozle-scoreboard/mgdklbiancdieoaabojfabakhlfhiglb?utm_source=woozle">⬇ Download</a>
+</p>
+
+The [scoreboard operation video](https://www.youtube.com/watch?v=MXOzmmnHqXU&t=1m1s&utm_source=woozle) can help you get started quickly.
 
 [Source Code](https://woozle.org/neale/g.cgi/scoreboard/) is also available for anyone who happens to be a *huge nerd*.
 

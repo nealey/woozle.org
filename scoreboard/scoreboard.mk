@@ -2,6 +2,8 @@ PLAIN += scoreboard
 COPY += scoreboard/screenshot.png
 COPY += scoreboard/logos.html
 COPY += scoreboard/others.html
+COPY += scoreboard/other-browsers.png
+COPY += scoreboard/chrome.png
 
 TARGETS += $(DESTDIR)/scoreboard/live/index.html
 
