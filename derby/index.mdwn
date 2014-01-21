@@ -1,4 +1,4 @@
-Title: Roller Derby
+Title: Woozle Roller Derby Stuff
 
 Roller Derby software, forms, and advice, with a focus on smaller teams.
 
@@ -10,24 +10,18 @@ The Woozle Promise
 * Clean: fans and NSOs should focus on the game, not our software
 * Easy: quickly-learned and intuitive interfaces
 
-2013 Roller Con Talks
----------------------
+Software
+--------
 
-* [Small Town Procedures and Gadgets](https://docs.google.com/presentation/d/1v2UuqYCnn_BRfchWsHp4DtdSEdKoQ5tllRMLRZj9FFQ/edit?usp=sharing)
-* [Build Your Own Scoreboard](https://docs.google.com/presentation/d/1pjuXe6HR7WbX8d77iv2x3G1tRdTk51ZZ39ZCKwY1yIE/edit?usp=sharing)
+* [Woozle Roller Derby Scoreboard](/scoreboard/)
+* [Penalty Timer for Android](https://play.google.com/store/apps/details?id=org.woozle.penaltytimer)
+* [Track](/track/) with movable players
 
 Hardware Gadgets
 ----------------
 
 * [Hardware Scoreboard](https://code.google.com/p/derby-scoreboard/)
 * [Official Timer's Stopwatch](https://code.google.com/p/dgdc-stopwatch/)
-
-Software
---------
-
-* [Scoreboard](/scoreboard/), works in any web browser -- [source](http://woozle.org/~neale/g.cgi/scoreboard/)
-* [Penalty Timer for Android](https://play.google.com/store/apps/details?id=org.woozle.penaltytimer) -- [source](http://woozle.org/~neale/g.cgi/ptimer/)
-* [Track](/track/) with movable players -- [source](http://woozle.org/~neale/g.cgi/track/)
 
 Forms
 -----
@@ -40,3 +34,11 @@ Articles
 
 * [Running A/V for a Bout](http://woozle.org/~neale/papers/derby-av.html)
 * [Copyright Advice for Small Leagues](http://woozle.org/~neale/papers/derby-copyright.html)
+
+
+2013 Roller Con Talks
+---------------------
+
+* [Small Town Procedures and Gadgets](https://docs.google.com/presentation/d/1v2UuqYCnn_BRfchWsHp4DtdSEdKoQ5tllRMLRZj9FFQ/edit?usp=sharing)
+* [Build Your Own Scoreboard](https://docs.google.com/presentation/d/1pjuXe6HR7WbX8d77iv2x3G1tRdTk51ZZ39ZCKwY1yIE/edit?usp=sharing)
+

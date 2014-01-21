@@ -12,7 +12,8 @@ body {
 }
 
 h1#title {
-  color: #888;
+  background: #444;
+  color: #ccc;
   font-size: 2em;
   font-weight: bold;
   margin: 0;
@@ -43,7 +44,6 @@ a:hover {
 
 h1 {
   font-size: 150%;
-  border-bottom: 1px solid #ddd;
 }
 
 h2 {
