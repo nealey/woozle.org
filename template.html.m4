@@ -8,12 +8,6 @@
     </head>
     <body>
         <h1 id="title">TITLE</h1>
-        <nav>
-            <ul>
-                <li><a href="/derby/">Roller Derby</a></li>
-                <li><a href="/people.html">Homepages</a></li>
-            </ul>
-        </nav>
 divert(1)
     </body>
 </html>

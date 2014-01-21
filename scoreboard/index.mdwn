@@ -1,0 +1,59 @@
+Title: LADD Roller Derby Scoreboard
+
+![screenshot](screenshot.png)
+
+A free scoreboard for
+Linux, Apple Macintosh, Android, iOS (iPhone or iPad), and Windows PCs.
+Supports WFTDA, USARS, RDCL, MADE, and JRDA scoreboard rules.
+
+Impatient? [Try it right now](live/scoreboard.html)!
+It runs in your browser, but you can install it on the hard drive,
+so you won't need Internet access.
+
+
+Features
+-------
+
+* Free to use, share, and change (GPLv3).
+* Easy to use: simply click on what you want changed.
+* Optimized for high visibility when using a projector.
+* Runs on almost everything.
+
+
+Installation
+--------
+
+* [Chrome Web Store listing](https://chrome.google.com/webstore/detail/ladd-roller-derby-scorebo/mgdklbiancdieoaabojfabakhlfhiglb?utm_source=woozle) for Chrome and Chromium users.
+* [Download Page](https://woozle.org/neale/g.cgi/scoreboard/refs/) for everybody else. Download the highest-numbered version `.zip` file, and drag its contents into a new folder. This [video tutorial](https://www.youtube.com/watch?v=lH1VZ2kFatY?utm_source=woozle) walks you through it.
+* [Source Code](https://woozle.org/neale/g.cgi/scoreboard/) is also available for anyone who happens to be a *huge nerd*.
+
+
+Adding Your Team's Logo
+--------------------
+
+The scoreboard ships with a bunch of
+[preinstalled team logos](logos.html),
+including a rainbow of generic logos.
+
+I would be happy to add your team's logo, too!
+[Email me](mailto:neale@woozle.org) the largest copy you can find,
+and I'll put it in.
+SVG, WMF, or PNG files are best.
+
+Please do this at least a week before your bout!
+
+
+
+More Woozle.org Derby Stuff
+-----------------------
+
+* [Free Derby Scoreboard Software] contains links to everything I've been able to find. If the LADD Scoreboard isn't for you, check here next.
+* [Woozle.org derby stuff](/derby/) includes software, hardware (5-foot-tall indoor/outdoor LED scoreboard, anyone?), as well as documents and forms to help smaller teams.
+
+
+Contact Me
+---------
+
+If you'd like me to add your team logo, have an idea for improvement, 
+or just want to say hi, please [send me an email](mailto:neale@woozle.org).
+I especially like hearing from people who are using the software: I love knowing I'm able to help people out.
