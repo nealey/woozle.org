@@ -6,6 +6,7 @@
     <meta charset="utf-8">
     <style type="text/css">
       #gallery {
+	background-color: black;
       }
       #gallery div {
           margin:2px;
@@ -17,7 +18,7 @@
       }
       #gallery img
       {
-          background: url(../res/checkerboard.png) #282;
+          background: url(live/res/checkerboard.png) #282;
           display:inline;
           float: none;
           margin:3px;
@@ -25,36 +26,21 @@
           max-width: 10em;
           max-height: 10em;
       }
-      #gallery a:hover img
-      {
-          border-color: yellow;
-      }
-      a {
-          color: yellow;
-      }
     </style>
-    <script type="text/javascript" src="logos.js"></script>
+    <script type="text/javascript" src="live/logos/logos.js"></script>
     <script type="text/javascript">
 function gallery() {
     var g = document.getElementById("gallery");
 
     for (tn in teams) {
         var team = teams[tn];
-        var d = document.createElement("div");
-        var a = document.createElement("a");
         var i = document.createElement("img");
 
-        i.setAttribute("src", team[1]);
-        i.setAttribute("alt", team[0] + " logo");
+        i.setAttribute("src", "live/logos/" + team[1]);
+        i.setAttribute("alt", team[2]);
+	i.setAttribute("title", team[2]);
 
-        a.setAttribute("href", team[1]);
-        a.appendChild(i);
-        a.appendChild(document.createElement("br"));
-        a.appendChild(document.createTextNode(team[2] + " (" + team[0] + ")"));
-
-        d.appendChild(a);
-
-        g.appendChild(d);
+        g.appendChild(i);
     }
 }
 
@@ -62,7 +48,7 @@ window.onload = gallery;
     </script>
   </head>
   <body>
-    <h1>Roller Derby Logo Gallery</h1>
+    <h1 id="title">Roller Derby Logo Gallery</h1>
 
     <p>
       Here are the logos currently shipping with the

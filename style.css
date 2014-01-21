@@ -12,16 +12,10 @@ body {
 }
 
 h1#title {
-  color: #ccc;
-  font-size: 1.5em;
+  color: #888;
+  font-size: 2em;
   font-weight: bold;
   margin: 0;
-}
-h1#title:before {
-  content: "Woozle";
-  font-size: 3em;
-  font-weight: normal;
-  padding-right: 1em;
 }
 
 nav {
@@ -56,6 +50,9 @@ h2 {
   font-size: 115%;
 }
 
+img {
+	max-width: 80%;
+}
 a img
 {
   border: 1px #e8b solid;
@@ -64,6 +61,11 @@ img.left {
   float: left;
   margin-right: 10px;
 }
+
+dt {
+	font-weight: bold;
+}
+
 
 pre {
   background-color: #eee;

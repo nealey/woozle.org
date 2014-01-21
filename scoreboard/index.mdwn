@@ -1,35 +1,46 @@
-Title: LADD Roller Derby Scoreboard
+Title: Woozle Roller Derby Scoreboard
 
-![screenshot](screenshot.png)
 
 A free scoreboard for
-Linux, Apple Macintosh, Android, iOS (iPhone or iPad), and Windows PCs.
+Windows PCs, Apple Macintosh, Linux, Chromebooks, and more.
 Supports WFTDA, USARS, RDCL, MADE, and JRDA scoreboard rules.
 
-Impatient? [Try it right now](live/scoreboard.html)!
-It runs in your browser, but you can install it on the hard drive,
-so you won't need Internet access.
-
+<div style="text-align: center;">
+	<h2>Live Demo</h2>
+	<iframe src="live/scoreboard.html" width="400" height="300">
+		<a href="live/scoreboard.html"><img src="screenshot.png"></a>
+	</iframe>
+	<p>Click on any part of the scoreboard to make it change.</p>
+</div>
 
 Features
 -------
 
-* Free to use, share, and change (GPLv3).
-* Easy to use: simply click on what you want changed.
-* Optimized for high visibility when using a projector.
-* Runs on almost everything.
+* Free: to use, share, and change (GPLv3).
+* Easy: just click on what you want to change.
+* Pretty: Optimized for high visibility on projectors.
+* Portable: Runs on almost everything.
 
 
 Installation
 --------
 
-* [Chrome Web Store listing](https://chrome.google.com/webstore/detail/ladd-roller-derby-scorebo/mgdklbiancdieoaabojfabakhlfhiglb?utm_source=woozle) for Chrome and Chromium users.
-* [Download Page](https://woozle.org/neale/g.cgi/scoreboard/refs/) for everybody else. Download the highest-numbered version `.zip` file, and drag its contents into a new folder. This [video tutorial](https://www.youtube.com/watch?v=lH1VZ2kFatY?utm_source=woozle) walks you through it.
-* [Source Code](https://woozle.org/neale/g.cgi/scoreboard/) is also available for anyone who happens to be a *huge nerd*.
+<dl>
+<dt>Chrome / Chromium</dt>
+<dd>Visit <a href="https://chrome.google.com/webstore/detail/ladd-roller-derby-scorebo/mgdklbiancdieoaabojfabakhlfhiglb?utm_source=woozle">Woozle Scoreboard</a> in the web store, install button is in the top-right.</dd>
+
+<dt>Everybody Else</dt>
+<dd>The <a href="https://woozle.org/neale/g.cgi/scoreboard/refs/">Download Page</a> has all released versions. Download the highest-numbered version `.zip` file, and drag its contents into a new folder. The <a href="https://www.youtube.com/watch?v=lH1VZ2kFatY?utm_source=woozle">video tutorial</a> walks you through installation.</dd>
+</dl>
+
+A [video tutorial](https://www.youtube.com/watch?v=MXOzmmnHqXU?t=1m1s&utm_source=woozle) is available.
+It's for an older version but is still a good introduction. 
+
+[Source Code](https://woozle.org/neale/g.cgi/scoreboard/) is also available for anyone who happens to be a *huge nerd*.
 
 
-Adding Your Team's Logo
---------------------
+Adding Your Logo
+--------------
 
 The scoreboard ships with a bunch of
 [preinstalled team logos](logos.html),
@@ -47,7 +58,7 @@ Please do this at least a week before your bout!
 More Woozle.org Derby Stuff
 -----------------------
 
-* [Free Derby Scoreboard Software] contains links to everything I've been able to find. If the LADD Scoreboard isn't for you, check here next.
+* [Free Derby Scoreboard Software](others.html) contains links to everything I've been able to find. If the Woozle Scoreboard isn't for you, check here next.
 * [Woozle.org derby stuff](/derby/) includes software, hardware (5-foot-tall indoor/outdoor LED scoreboard, anyone?), as well as documents and forms to help smaller teams.
 
 
