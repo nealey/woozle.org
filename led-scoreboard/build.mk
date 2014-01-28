@@ -1,0 +1,1 @@
+PLAIN += led-scoreboard
