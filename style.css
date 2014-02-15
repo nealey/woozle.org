@@ -22,11 +22,15 @@ h1#title {
 nav {
   font-size: 80%;
   text-align: center;
+  background-color: #eee;
+}
+nav p {
+  display: inline;
 }
 nav ul {
-  background-color: #eee;
   margin: 0;
   padding: 0 1em;
+  display: inline;
 }
 nav li {
   font-weight: bold;

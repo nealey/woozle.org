@@ -20,7 +20,7 @@ Software
 Hardware Gadgets
 ----------------
 
-* [Hardware Scoreboard](https://code.google.com/p/derby-scoreboard/)
+* [Hardware Scoreboard](/led-scoreboard/)
 * [Official Timer's Stopwatch](https://code.google.com/p/dgdc-stopwatch/)
 
 Forms

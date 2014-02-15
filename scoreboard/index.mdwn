@@ -39,7 +39,7 @@ window.addEventListener("load", function () {
 
 <ul id="download">
 	<li><a href="https://chrome.google.com/webstore/detail/woozle-scoreboard/mgdklbiancdieoaabojfabakhlfhiglb?utm_source=woozle">Chrome Users</a></li>
-	<li><a href="https://woozle.org/neale/g.cgi/scoreboard/refs/">Everybody Else</a>:
+	<li><a href="https://woozle.org/neale/g.cgi/scoreboard/refs/?h=multi-browser">Everybody Else</a>:
 	The <a href="https://www.youtube.com/watch?v=lH1VZ2kFatY?utm_source=woozle">installation walkthrough video</a> may help if you don't use Chrome.
 	</li>
 </ul>

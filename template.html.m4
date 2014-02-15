@@ -9,6 +9,13 @@
     <body>
         <h1 id="title">TITLE</h1>
 divert(1)
+	<nav>
+		<ul>
+			<li><a href="/">Home</a></li>
+			<li><a href="/derby/">Roller Derby</a></li>
+			<li><a href="/scoreboard/">Scoreboard</a></li>
+		</ul>
+	</nav>
     </body>
 </html>
 divert(0)

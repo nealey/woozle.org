@@ -6,8 +6,7 @@ doesn't use a computer at all,
 and can be easily operated by an 8-year-old.
 
 If you're looking for a software scoreboard (using a projector)
-this isn't what you want.
-But here's [a list of free scoreboard software](http://woozle.org/scoreboard/others.html) that should help.
+this [list of free derby scoreboard software](http://woozle.org/scoreboard/others.html) will help.
 
 This scoreboard is operated with a Nintendo controller,
 and runs on an XBox 360 power supply.
@@ -18,15 +17,9 @@ with plenty of options for upgrades.
 It will take about 6 weeks of work,
 and requires basic electronics understanding and
 elementary soldering skills.
-Neale provides updated firmware,
+I provide updated firmware,
 so unless you feel like modifying the MIT-licensed source code,
 you don't need to do any programming.
-
-
-Photos
-------
-
-Here are different builds of the board.
 
 ![Original Build](https://lh3.googleusercontent.com/-xKiVBp0bv70/UuafY7lZxeI/AAAAAAAAd1g/6TlMNSDp9xc/s1600/IMG_20140125_094136.jpg)
 
@@ -35,31 +28,14 @@ Here are different builds of the board.
 ![Second duplicate](https://lh6.googleusercontent.com/-hOKmDB5JRYY/UtXPLuY2bDI/AAAAAAAAdpE/PYxeqHQGxTA/s1600/2014-01-14)
 
 
-Documents
+Resources
 ---------
 
-Build documents,
-schematics,
-parts lists,
-and firmware builds
-are available in a 
-[Google Drive Folder](https://drive.google.com/folderview?id=0BzovkpI6mzWQNFc4eGN0aGoyTGM&usp=sharing).
+* [Discussion Group](https://groups.google.com/forum/#!forum/scoreboard-builders) for help from others who've built or are building one.
+* [Google Drive Folder](https://drive.google.com/folderview?id=0BzovkpI6mzWQNFc4eGN0aGoyTGM&usp=sharing) with
+  schematics, documentation, and firmware releases.
+* [Firmware Source Code](http://woozle.org/neale/g.cgi/avr/scoreboard)
 
-Please be sure to join the group,
-at the very least we want to know that there are other
-crazy people in the world.
-
-
-Support
--------
-
-I highly recommend you join the
-[Scoreboard Builders Group](https://groups.google.com/forum/#!forum/scoreboard-builders) forum/mail list.
-You will need help,
-either because you get confused,
-or because the instructions are crappy,
-or both.
-This group is where to go to get it.
 
 About Me
 --------
