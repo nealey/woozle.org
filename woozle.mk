@@ -1,6 +1,5 @@
 PLAIN += .
-COPY += icon.png style.css style-black.css lists.cgi wishlist.cgi set.cgi $(TEMPLATE)
-COPY += mail.cgi ilohamail.cgi l.cgi
+COPY += icon.png style.css style-black.css set.cgi $(TEMPLATE)
 COPY += google7f698b9893809122.html
 HTML += people.html
 COPY += robots.txt
