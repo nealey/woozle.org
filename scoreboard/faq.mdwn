@@ -1,0 +1,70 @@
+Title: Woozle Scoreboard FAQ
+
+Questions, with answers, about the
+[Woozle Roller Derby Scoreboard](/scoreboard/).
+
+Where do I report a bug?
+====================================
+
+[Right here](https://chrome.google.com/webstore/support/mgdklbiancdieoaabojfabakhlfhiglb).
+Thanks for letting me know about problems,
+or asking for improvements!
+
+
+How do I operate the scoreboard with the mouse?
+====================================
+
+Short answer: click on anything to change it.
+
+During Setup
+------------
+
+* Click the photo icon to upload a logo
+* Click the color bar to change the color of the generic logo
+* Click a score to set it to 0
+* Click the ruleset name to cycle through presets
+* Click the period clock to adjust it (type the new time in)
+* Click "Period 1" to change that indicator text
+
+During Gameplay
+------------
+
+* Click the jam clock to switch between Jam and Lineup
+* Click the star to indicate lead jammer (if you want to track this)
+* Click a score to raise the score
+* Click a team logo to lower the score
+* Click the period clock (on the top) to go into timeout
+* Click the pips (on the bottom left and bottom right) to subtract a team timeout. Clicking on empty timeouts will reset to all full.
+* During timeout, edit the period clock with the keyboard to change it
+* Click "Period 1" to change that indicator text
+
+
+How do I operate the scoreboard with the keyboard?
+====================================
+
+* Space Bar: switch between Jam and Lineup
+* , and .: Indicate lead jammer
+* A and Z: Change score on the left
+* ' and /: Change the score on the right
+* T: Timeout
+* Use the mouse for everything else
+
+
+How do I set up for a second bout?
+====================================
+
+Click the "close" icon in the top-right and re-launch the app.
+
+
+Is there an overlay version for streamcasting?
+====================================
+
+Yes there is, and it's beautiful!
+[Email me](mailto:neale@woozle.org) to help beta test the overlay version of the app.
+
+
+Why are you giving this away for free?
+====================================
+
+Same reason you're paying to play: I love Roller Derby.
+

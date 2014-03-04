@@ -50,30 +50,13 @@ window.addEventListener("load", function () {
 
 The [scoreboard operation video](https://www.youtube.com/watch?v=MXOzmmnHqXU&t=1m1s&utm_source=woozle) can help you get started quickly.
 
+[Frequently Asked Questions](faq.html)
+includes complete usage information and keyboard shortcuts.
+
+[Issue Tracker](https://chrome.google.com/webstore/support/mgdklbiancdieoaabojfabakhlfhiglb)
+for reporting bugs and requesting new features.
+
 [Source Code](https://woozle.org/neale/g.cgi/scoreboard/) is also available for anyone who happens to be a *huge nerd*.
-
-
-Adding Your Logo
---------------
-
-The scoreboard ships with a bunch of
-[preinstalled team logos](logos.html),
-including a rainbow of generic logos.
-
-I would be happy to add your team's logo, too!
-[Email me](mailto:neale@woozle.org) the largest copy you can find,
-and I'll put it in.
-SVG, WMF, or PNG files are best.
-
-Please do this at least a week before your bout!
-
-
-
-More Woozle.org Derby Stuff
------------------------
-
-* [Free Derby Scoreboard Software](others.html) contains links to everything I've been able to find. If the Woozle Scoreboard isn't for you, check here next.
-* [Woozle.org derby stuff](/derby/) includes software, hardware (5-foot-tall indoor/outdoor LED scoreboard, anyone?), as well as documents and forms to help smaller teams.
 
 
 Contact Me
