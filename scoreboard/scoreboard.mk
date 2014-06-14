@@ -8,8 +8,8 @@ COPY += scoreboard/chrome.png
 TARGETS += $(DESTDIR)/scoreboard/live/index.html
 
 $(DESTDIR)/scoreboard/live/.git:
-	cd $(DESTDIR)/scoreboard; git clone /home/neale/projects/scoreboard live
+	cd $(DESTDIR)/scoreboard; git clone /home/neale/projects/derby/scoreboard live
 
 $(DESTDIR)/scoreboard/live/index.html: $(DESTDIR)/scoreboard/live/.git
-$(DESTDIR)/scoreboard/live/index.html: /home/neale/projects/scoreboard
+$(DESTDIR)/scoreboard/live/index.html: /home/neale/projects/derby/scoreboard
 	cd $(DESTDIR)/scoreboard/live; git pull
