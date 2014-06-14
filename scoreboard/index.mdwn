@@ -56,7 +56,7 @@ includes complete usage information and keyboard shortcuts.
 [Issue Tracker](https://chrome.google.com/webstore/support/mgdklbiancdieoaabojfabakhlfhiglb)
 for reporting bugs and requesting new features.
 
-[Source Code](https://woozle.org/neale/g.cgi/scoreboard/) is also available for anyone who happens to be a *huge nerd*.
+[Source Code](https://woozle.org/neale/g.cgi/derby/scoreboard/) is also available for anyone who happens to be a *huge nerd*.
 
 
 Contact Me
