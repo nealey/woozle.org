@@ -1,0 +1,11 @@
+#! /bin/sh
+
+DESTDIR=${1:-/srv/http/woozle.org/derby}
+
+for src in *.ps; do
+	target=$DESTDIR/${src%.ps}.pdf
+	if older $target $src; then
+		echo "PDF $src"
+		pstopdf $src $target
+	fi
+done
