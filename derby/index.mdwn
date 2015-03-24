@@ -20,8 +20,8 @@ Software
 Hardware Gadgets
 ----------------
 
-* [Hardware Scoreboard](/led-scoreboard/)
-* [Official Timer's Stopwatch](https://code.google.com/p/dgdc-stopwatch/)
+* [Hardware Scoreboard](https://woozle.org/neale/g.cgi/derby/hw-scoreboard)
+* [Official Timer's Stopwatch](https://woozle.org/neale/g.cgi/derby/stopwatch)
 
 Forms
 -----
