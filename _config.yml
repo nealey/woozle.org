@@ -1,0 +1,7 @@
+destination: /srv/http/woozle.org
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"
